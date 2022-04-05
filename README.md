@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Luna!
+###### 27 | she/her
+I like to code. I especially like to code things that really interest me. 
+### Currently...
+I'm currently in a full stack web development bootcamp learning all about HTML/CSS/Javascript and a myriad of web APIs
 
-<!--
-**SnowLune/snowlune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Favourite technologies/languages
+- C/C++
+- Rust
+- Javascript
+- Lua
 
-Here are some ideas to get you started:
+### Hobbies and interests
+I really love music and video games. Overwatch is probably my favourite multiplayer game. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In fact, I like Overwatch so much [I made a Workshop mode coding AI for every single hero in the game.](https://github.com/snowlune/practicefieldexpanse)
+
+**Other interests include:** *SPACE*, so much space. I'm a big NASA stan. [JWST](https://jwst.nasa.gov/) makes me almost outrageously happy.
