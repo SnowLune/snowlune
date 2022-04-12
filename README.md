@@ -5,10 +5,7 @@ I like to code. I especially like to code things that really interest me.
 I'm currently in a full stack web development bootcamp learning all about HTML/CSS/Javascript and a myriad of web APIs
 
 ### Favourite technologies/languages
-- C/C++
-- Rust
-- Javascript
-- Lua
+- C/C++, JavaScript, Python, Rust, Lua
 
 ### Hobbies and interests
 I really love music and video games. Overwatch is probably my favourite multiplayer game. 
