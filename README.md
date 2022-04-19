@@ -6,6 +6,7 @@ I'm currently in a full stack web development bootcamp learning all about HTML/C
 
 ### Favourite technologies/languages
 - C/C++, JavaScript, Python, Rust, Lua
+- Linux, BASH, coreutils
 
 ### Hobbies and interests
 I really love music and video games. Overwatch is probably my favourite multiplayer game. 
