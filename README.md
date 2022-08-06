@@ -5,7 +5,7 @@ I like to code. I especially like to code things that really interest me. I care
 I'm currently in a full stack web development bootcamp learning all about HTML/CSS/Javascript and many more technologies (MERN stack) and APIs 
 
 ### Favourite technologies/languages
-- C/C++, JavaScript, Python, Rust, Lua
+- JavaScript, C/C++, Python, Rust, Lua
 - Linux, BASH, coreutils
 
 ### Hobbies and interests
