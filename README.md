@@ -1,16 +1,12 @@
 ## Hi, I'm Luna!
-###### 27 | she/her
-I like to code. I especially like to code things that really interest me. I care about web accessibility a lot.
-### Currently...
-I'm currently in a full stack web development bootcamp learning all about HTML/CSS/Javascript and many more technologies (MERN stack) and APIs 
+###### 28 | she/her
 
-### Favourite technologies/languages
-- JavaScript, C/C++, Python, Rust, Lua
-- Linux, BASH, coreutils
+## About me
 
-### Hobbies and interests
-I really love music and video games. Overwatch is probably my favourite multiplayer game. 
+I'm a recent graduate of a Full Stack Web Development program at the University of Minnesota, and I'm actively looking for my first engineering opportunity. I love solving unique problems with code, and I'm particularly interested in web accessibility. Some of my favorite technologies and languages include JavaScript, C/C++, Python, Rust, and Lua. I'm also comfortable working with Linux, BASH, and coreutils.
 
-In fact, I like Overwatch so much [I made a Workshop mode coding AI for every single hero in the game.](https://github.com/snowlune/ravensaidome)
+## Hobbies and interests
 
-**Other interests include:** *SPACE*, so much space. I'm a big NASA fan. [JWST](https://jwst.nasa.gov/) makes me almost outrageously happy.
+In my free time, I enjoy music and video games. I'm a big fan of Valorant and formerly played a lot of Overwatch. In fact, I was so inspired by Overwatch that [I created a Workshop mode coding AI for every single hero in the game](https://github.com/snowlune/ravensaidome).
+
+Other interests of mine include SPACE - I'm a big NASA fan and the [JWST](https://jwst.nasa.gov/) really excites me.
